@@ -1,6 +1,3 @@
-
-markdown
-Copy code
 # File Management System
 
 A web-based application for managing files and folders, built using **Vue.js** for the front-end and **Node.js** for the back-end. The application communicates via a RESTful API to handle file and folder operations.
